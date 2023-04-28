@@ -1,6 +1,6 @@
 ### Olá! Sou o Felipe Mendes 👋
 
-- </> Curiosidade: Sou apaixonado por programação! 
+- </> Sou apaixonado por tecnologia programação! 
 - 🌱 Atualmente estou estudando HTML, CSS e Git/GitHub
 
 
