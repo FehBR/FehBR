@@ -1,7 +1,7 @@
 ### Olá! Sou o Felipe Mendes 😉
 
 - </> Sou apaixonado por tecnologia e programação! 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e Git/GitHub
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e Git/GitHub.
 
 <hr/>
 
@@ -10,13 +10,14 @@
 <hr>
 
 #### Tecnologias de programação:
+Pawno
+
 HTML
 
 CSS
 
 JavaScript
 
-Pawno
 <hr>
 
 #### Redes sociais: <br>
